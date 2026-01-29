@@ -13,8 +13,6 @@
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Customization](#-customization)
 
-<img src="https://via.placeholder.com/800x400/1a1a1a/00d4ff?text=Portfolio+Builder+Preview" alt="Portfolio Builder Screenshot" />
-
 </div>
 
 ---
@@ -58,19 +56,6 @@
 - 🎨 **Gradient Accents** - Beautiful color schemes
 - 📏 **Consistent Design** - Professional spacing & typography
 
----
-
-## 🖥️ Demo
-
-<div align="center">
-
-### Light Theme
-<img src="https://via.placeholder.com/700x400/ffffff/333333?text=Light+Theme+Preview" alt="Light Theme" />
-
-### Dark Theme
-<img src="https://via.placeholder.com/700x400/0a0a0a/ffffff?text=Dark+Theme+Preview" alt="Dark Theme" />
-
-</div>
 
 ---
 
@@ -142,59 +127,6 @@ Include your academic background:
 - Institution name
 - Dates and GPA (optional)
 
----
-
-## 🎨 Themes & Customization
-
-### Theme Styles
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/667eea/ffffff?text=Modern" alt="Modern" /><br />
-<b>Modern</b><br />
-Clean & Contemporary
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/f5f7fa/333333?text=Minimal" alt="Minimal" /><br />
-<b>Minimal</b><br />
-Simple & Elegant
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/f093fb/ffffff?text=Creative" alt="Creative" /><br />
-<b>Creative</b><br />
-Bold & Artistic
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/4facfe/ffffff?text=Professional" alt="Professional" /><br />
-<b>Professional</b><br />
-Business-Ready
-</td>
-</tr>
-</table>
-
-### Color Schemes
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/3b82f6/ffffff?text=Ocean+Blue" alt="Blue" /><br />
-<b>Ocean Blue</b>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/a855f7/ffffff?text=Royal+Purple" alt="Purple" /><br />
-<b>Royal Purple</b>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/10b981/ffffff?text=Forest+Green" alt="Green" /><br />
-<b>Forest Green</b>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/f97316/ffffff?text=Sunset+Orange" alt="Orange" /><br />
-<b>Sunset Orange</b>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -376,10 +308,6 @@ npm install
 | 4 Theme Styles | ✅ | ✅ |
 | 4 Color Schemes | ✅ | ✅ |
 | Export/Import | ✅ | ✅ |
-| PDF Export | ❌ | ✅ |
-| Custom CSS Editor | ❌ | ✅ |
-| Analytics | ❌ | ✅ |
-| Cloud Sync | ❌ | ✅ |
 
 ---
 
@@ -408,10 +336,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
+- GitHub: [@roshaldsouza](https://github.com/roshaldsouza)
+- LinkedIn: [Roshal Dsouza](https://linkedin.com/in/roshaldsouza)
+- Twitter: [@roshaldsouza](https://twitter.com/roshaldsouza)
+- Email: roshalds789@gmail.com
 
 ---
 
@@ -426,37 +354,7 @@ Special thanks to:
 - [React Icons](https://react-icons.github.io/react-icons/) - For beautiful icons
 - All contributors who help improve this project
 
----
 
-## 📸 Screenshots
-
-<details>
-<summary><b>Click to view more screenshots</b></summary>
-
-### Hero Section
-<img src="https://via.placeholder.com/800x400/1a1a1a/00d4ff?text=Hero+Section" alt="Hero Section" />
-
-### Skills Section
-<img src="https://via.placeholder.com/800x400/1a1a1a/a855f7?text=Skills+Section" alt="Skills Section" />
-
-### Projects Section
-<img src="https://via.placeholder.com/800x400/1a1a1a/10b981?text=Projects+Section" alt="Projects Section" />
-
-### Experience Timeline
-<img src="https://via.placeholder.com/800x400/1a1a1a/f97316?text=Experience+Timeline" alt="Experience Timeline" />
-
-</details>
-
----
-
-## 💬 Support
-
-Need help? Have questions?
-
-- 📧 Email: support@portfoliobuilder.com
-- 💬 Discord: [Join our community](https://discord.gg/portfoliobuilder)
-- 📖 Documentation: [Read the docs](https://docs.portfoliobuilder.com)
-- 🐛 Issues: [Report a bug](https://github.com/yourusername/portfolio-builder/issues)
 
 ---
 
@@ -466,14 +364,14 @@ If this project helped you, please give it a ⭐!
 
 <div align="center">
 
-### Made with ❤️ by developers, for developers
+### Made with ❤️ by developer, for developers
 
 **[⬆ Back to Top](#-portfolio-builder)**
 
 ---
 
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/portfolio-builder?style=social)](https://github.com/yourusername/portfolio-builder)
-[![Fork on GitHub](https://img.shields.io/github/forks/yourusername/portfolio-builder?style=social)](https://github.com/yourusername/portfolio-builder/fork)
-[![Watch on GitHub](https://img.shields.io/github/watchers/yourusername/portfolio-builder?style=social)](https://github.com/yourusername/portfolio-builder)
+[![Star on GitHub](https://img.shields.io/github/stars/roshaldsouza/portfolio-builder?style=social)](https://github.com/roshaldsouza/portfolio-builder)
+[![Fork on GitHub](https://img.shields.io/github/forks/roshaldsouza/portfolio-builder?style=social)](https://github.com/roshaldsouza/portfolio-builder/fork)
+[![Watch on GitHub](https://img.shields.io/github/watchers/roshaldsouza/portfolio-builder?style=social)](https://github.com/roshaldsouza/portfolio-builder)
 
 </div>
